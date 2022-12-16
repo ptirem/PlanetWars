@@ -1,2 +1,0 @@
-# PlanetWars
-planet war bot 
